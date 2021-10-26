@@ -1,0 +1,16 @@
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.deps.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.runtimeconfig.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.runtimeconfig.dev.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/ref/7-concat.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.csproj.AssemblyReference.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.GeneratedMSBuildEditorConfig.editorconfig
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.AssemblyInfoInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.AssemblyInfo.cs
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.csproj.CoreCompileInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/ref/7-concat.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.genruntimeconfig.cache
