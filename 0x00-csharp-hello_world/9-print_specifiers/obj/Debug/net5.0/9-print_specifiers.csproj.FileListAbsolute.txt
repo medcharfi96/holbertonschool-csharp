@@ -1,0 +1,16 @@
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/net5.0/9-print_specifiers
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/net5.0/9-print_specifiers.deps.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/net5.0/9-print_specifiers.runtimeconfig.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/net5.0/9-print_specifiers.runtimeconfig.dev.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/net5.0/9-print_specifiers.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/net5.0/ref/9-print_specifiers.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/net5.0/9-print_specifiers.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/9-print_specifiers.csproj.AssemblyReference.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/9-print_specifiers.AssemblyInfoInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/9-print_specifiers.AssemblyInfo.cs
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/9-print_specifiers.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/ref/9-print_specifiers.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/9-print_specifiers.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/net5.0/9-print_specifiers.genruntimeconfig.cache
