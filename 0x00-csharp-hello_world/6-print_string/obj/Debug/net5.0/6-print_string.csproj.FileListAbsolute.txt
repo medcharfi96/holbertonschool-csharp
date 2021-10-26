@@ -1,0 +1,16 @@
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.deps.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.runtimeconfig.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.runtimeconfig.dev.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/ref/6-print_string.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.csproj.AssemblyReference.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.AssemblyInfoInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.AssemblyInfo.cs
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.csproj.CoreCompileInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/ref/6-print_string.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.genruntimeconfig.cache
