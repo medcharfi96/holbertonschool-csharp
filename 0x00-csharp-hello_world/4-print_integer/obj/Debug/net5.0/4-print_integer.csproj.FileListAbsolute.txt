@@ -1,0 +1,16 @@
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/bin/Debug/net5.0/4-print_integer
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/bin/Debug/net5.0/4-print_integer.deps.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/bin/Debug/net5.0/4-print_integer.runtimeconfig.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/bin/Debug/net5.0/4-print_integer.runtimeconfig.dev.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/bin/Debug/net5.0/4-print_integer.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/bin/Debug/net5.0/ref/4-print_integer.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/bin/Debug/net5.0/4-print_integer.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/4-print_integer.csproj.AssemblyReference.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/4-print_integer.GeneratedMSBuildEditorConfig.editorconfig
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/4-print_integer.AssemblyInfoInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/4-print_integer.AssemblyInfo.cs
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/4-print_integer.csproj.CoreCompileInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/4-print_integer.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/ref/4-print_integer.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/4-print_integer.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/net5.0/4-print_integer.genruntimeconfig.cache
