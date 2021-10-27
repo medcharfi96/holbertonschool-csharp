@@ -1,0 +1,16 @@
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.csproj.AssemblyReference.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.GeneratedMSBuildEditorConfig.editorconfig
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.AssemblyInfoInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.AssemblyInfo.cs
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.csproj.CoreCompileInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.deps.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.runtimeconfig.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.runtimeconfig.dev.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/ref/2-print_alphabet.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/ref/2-print_alphabet.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.genruntimeconfig.cache
