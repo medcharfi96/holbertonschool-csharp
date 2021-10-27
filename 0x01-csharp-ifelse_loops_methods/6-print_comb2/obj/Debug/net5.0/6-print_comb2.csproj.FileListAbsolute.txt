@@ -1,0 +1,16 @@
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/6-print_comb2.csproj.AssemblyReference.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/6-print_comb2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/6-print_comb2.AssemblyInfoInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/6-print_comb2.AssemblyInfo.cs
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/6-print_comb2.csproj.CoreCompileInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net5.0/6-print_comb2
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net5.0/6-print_comb2.deps.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net5.0/6-print_comb2.runtimeconfig.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net5.0/6-print_comb2.runtimeconfig.dev.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net5.0/6-print_comb2.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net5.0/ref/6-print_comb2.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net5.0/6-print_comb2.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/6-print_comb2.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/ref/6-print_comb2.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/6-print_comb2.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net5.0/6-print_comb2.genruntimeconfig.cache
