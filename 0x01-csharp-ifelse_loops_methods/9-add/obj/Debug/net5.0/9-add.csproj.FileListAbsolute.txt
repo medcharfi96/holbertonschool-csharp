@@ -1,0 +1,16 @@
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/net5.0/9-add
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/net5.0/9-add.deps.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/net5.0/9-add.runtimeconfig.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/net5.0/9-add.runtimeconfig.dev.json
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/net5.0/9-add.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/net5.0/ref/9-add.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/net5.0/9-add.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/9-add.csproj.AssemblyReference.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/9-add.GeneratedMSBuildEditorConfig.editorconfig
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/9-add.AssemblyInfoInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/9-add.AssemblyInfo.cs
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/9-add.csproj.CoreCompileInputs.cache
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/9-add.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/ref/9-add.dll
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/9-add.pdb
+/home/nanou3/Bureau/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/net5.0/9-add.genruntimeconfig.cache
